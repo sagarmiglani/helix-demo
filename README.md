@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Helix demo
+Helix demo site for learning purpose
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--helix-demo--sagarmiglani.hlx.page/
+- Live: https://main--helix-demo--sagarmiglani.hlx.live/
 
 ## Installation
 
